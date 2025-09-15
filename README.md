@@ -31,6 +31,6 @@ Ainda estou no início da minha jornada, mas em breve atualizarei com um projeto
 
 ---
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Seu-Nome-De-Usuario]&show_icons=true&theme=dracula)
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-nae&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Seu-Nome-De-Usuario]&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-nae&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
